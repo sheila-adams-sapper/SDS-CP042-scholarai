@@ -4,7 +4,7 @@ emoji: 🎓
 colorFrom: blue
 colorTo: purple
 sdk: gradio
-sdk_version: 4.44.0
+sdk_version: 5.0.1
 app_file: beginner/submissions/team-members/sheila-adams/app.py
 pinned: false
 license: mit
