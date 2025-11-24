@@ -25,3 +25,4 @@ AI-powered research synthesis tool that searches the web, analyzes sources, and 
 2. Configure number of sources and style preferences
 3. Click "Start Research"
 4. Review and download your synthesized report
+
